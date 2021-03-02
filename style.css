@@ -1,0 +1,13 @@
+.img-dps img{
+    width:100%;
+}
+.announcement marquee{
+    background-color:blue;
+    color:white;
+}
+.img-dps{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float:none;
+}
